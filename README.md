@@ -17,6 +17,8 @@
   ## <p align=center> Materiales
   ![Materiales](https://user-images.githubusercontent.com/93829976/141382782-379cc1dd-d3fb-4934-bf72-0b6426afd262.jpeg)
   ## <p align=center> Primera Ley de Kirchhoff de Corrientes
+    ![image](https://user-images.githubusercontent.com/93786746/141383212-b4dcb88d-3e41-4106-8e0e-1b032ccebc20.png)
+
   ## <p align=center> Segunda Ley de Kirchhoff de Voltajes
   ![image](https://github.com/NahirCarrera/Informe-Laboratorio-1-Carrera-Castro-Chacha/blob/main/Im%C3%A1genes/Segunda%20Ley.jpeg)
 ## 3. Explicación del Procedimiento
