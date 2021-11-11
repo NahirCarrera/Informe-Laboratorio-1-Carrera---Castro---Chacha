@@ -1,6 +1,6 @@
 #Universidad de las Fuerzas Armadas ESPE
 <p align=center> Informe 1 Laboratorio
- ## Integrantes <p align=right> NRC 10149
+## Integrantes <p align=right> NRC 10149
    * Carrera Vela Nahir Danae
    * Castro Chugchilan Pául Enrique
    * Chacha Chacha Kevin Alejandro
