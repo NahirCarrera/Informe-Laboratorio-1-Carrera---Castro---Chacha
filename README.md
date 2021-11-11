@@ -1,7 +1,10 @@
-#Universidad de las Fuerzas Armadas ESPE
-<p align=center> Informe 1 Laboratorio
-## Integrantes <p align=right> NRC 10149
-   * Carrera Vela Nahir Danae
-   * Castro Chugchilan Pául Enrique
-   * Chacha Chacha Kevin Alejandro
+![image](https://user-images.githubusercontent.com/93786746/140656495-1e9017c5-1622-4145-a547-0ebbe5014f3d.png)
+# <p align=center> UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE 
+## <p align=center> FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
+# <p align=center>  INFORME TAREA 1
+# Integrantes: <p align=right> NRC: 10149
+* Carrera Vela Nahir Danae
+* Castro Chugchilan Paúl Enrique
+* Chacha Chacha Kevin Alejandro
+## 1. Objetivos
 ![image](https://user-images.githubusercontent.com/93786746/141368652-c36bfed3-9d8b-43cf-a1cc-14ed1a399913.png)
