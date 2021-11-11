@@ -16,8 +16,8 @@
 ## 2. Marco Teórico
   ## <p align=center> Materiales
   ## <p align=center> Primera Ley de Kirchhoff de Corrientes
-  ## <p align=center> Primera Ley de Kirchhoff de Voltajes
-    ![Segunda Ley](https://user-images.githubusercontent.com/93829962/141380736-6fb6b597-3859-482b-ae8b-5c88d6f93b59.jpeg)
+  ## <p align=center> Segunda Ley de Kirchhoff de Voltajes
+    ![Segunda Ley](https://user-images.githubusercontent.com/93829962/141382274-50191241-2c3f-4839-a856-0641d8f2b974.jpeg)
 ## 3. Explicación del Procedimiento
   ![image](https://user-images.githubusercontent.com/93786746/141368652-c36bfed3-9d8b-43cf-a1cc-14ed1a399913.png)
   ![image](https://user-images.githubusercontent.com/93829962/141375518-9f4fe4c9-5b74-430f-8ee9-853ebc2f9e82.png)
