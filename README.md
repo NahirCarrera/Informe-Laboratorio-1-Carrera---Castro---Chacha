@@ -38,8 +38,8 @@
     4) Verificar si se cumple la Ley de Kirchhoff de corrientes en cada nodos, tomando con signo positivo las corrientes que entrar y con signo negativo las que salen.
     (Insertar la tabla 1.3)
     5) Comparar los resultados medidos con los valores obtenidos al analizar con el circuito analíticamente.
-  ![image](https://user-images.githubusercontent.com/93786746/141368652-c36bfed3-9d8b-43cf-a1cc-14ed1a399913.png)
-  ![image](https://user-images.githubusercontent.com/93829962/141375518-9f4fe4c9-5b74-430f-8ee9-853ebc2f9e82.png)
+![image](https://user-images.githubusercontent.com/93786746/141384956-f900eba0-4046-4ec9-a970-59039df9c698.png)
+![image](https://user-images.githubusercontent.com/93829962/141375518-9f4fe4c9-5b74-430f-8ee9-853ebc2f9e82.png)
 ## 4. Respuesta a Interrogantes y cálculo de error
 ## 5. Video
 ## 6. Conclusiones
