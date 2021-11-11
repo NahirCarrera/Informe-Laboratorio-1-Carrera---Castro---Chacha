@@ -20,6 +20,16 @@
   ## <p align=center> Segunda Ley de Kirchhoff de Voltajes
   ![image](https://github.com/NahirCarrera/Informe-Laboratorio-1-Carrera-Castro-Chacha/blob/main/Im%C3%A1genes/Segunda%20Ley.jpeg)
 ## 3. Explicación del Procedimiento
+   ## Materiales
+    * 1 Fuente de voltaje CD
+    * 2 Multímetros Digitales
+    * 1 Resistor (1 K Ohm)
+    * 2 Resistores (2.2 K Ohm)
+    * 1 Resistor (1.8 K Ohm)
+    * 1 Resistor (3.9 K Ohm)
+    * 1 Protoboard
+  ## Procedimiento
+    
   ![image](https://user-images.githubusercontent.com/93786746/141368652-c36bfed3-9d8b-43cf-a1cc-14ed1a399913.png)
   ![image](https://user-images.githubusercontent.com/93829962/141375518-9f4fe4c9-5b74-430f-8ee9-853ebc2f9e82.png)
 ## 4. Respuesta a Interrogantes y cálculo de error
