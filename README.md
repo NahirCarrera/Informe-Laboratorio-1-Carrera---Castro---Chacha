@@ -17,6 +17,7 @@
   ## <p align=center> Materiales
   ![Materiales](https://user-images.githubusercontent.com/93829976/141382782-379cc1dd-d3fb-4934-bf72-0b6426afd262.jpeg)
   ## <p align=center> Primera Ley de Kirchhoff de Corrientes
+![1ra Ley de Kirchhoff](https://user-images.githubusercontent.com/93786746/141385120-a4497f4a-9512-44bf-9006-b07f74d19016.png)
   ## <p align=center> Segunda Ley de Kirchhoff de Voltajes
   ![image](https://github.com/NahirCarrera/Informe-Laboratorio-1-Carrera-Castro-Chacha/blob/main/Im%C3%A1genes/Segunda%20Ley.jpeg)
 ## 3. Explicación del Procedimiento
@@ -38,7 +39,7 @@
     4) Verificar si se cumple la Ley de Kirchhoff de corrientes en cada nodos, tomando con signo positivo las corrientes que entrar y con signo negativo las que salen.
     (Insertar la tabla 1.3)
     5) Comparar los resultados medidos con los valores obtenidos al analizar con el circuito analíticamente.
-![image](https://user-images.githubusercontent.com/93786746/141384956-f900eba0-4046-4ec9-a970-59039df9c698.png)
+![image](https://user-images.githubusercontent.com/93786746/141385308-9f9c8da6-84ae-4761-a626-73e6111614f2.png)
 ![image](https://user-images.githubusercontent.com/93829962/141375518-9f4fe4c9-5b74-430f-8ee9-853ebc2f9e82.png)
 ## 4. Respuesta a Interrogantes y cálculo de error
 ## 5. Video
