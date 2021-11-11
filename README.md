@@ -29,7 +29,15 @@
     * 1 Resistor (3.9 K Ohm)
     * 1 Protoboard
   ## Procedimiento
-    
+    1) Armar el circuito que se muestra en la Figura 1.1.
+    ![image](https://user-images.githubusercontent.com/93829962/141383857-9dcc47b7-a6de-4901-8fe7-cb5d9bb47658.png)
+    2) Medir los voltajes y corrientes en cada elemento del circuito y anotar en la tabla 1.1.
+    (Insertar tabla 1.1 con los datos medidos)
+    3) Verificar si se cumple la Ley de Kirchhoff de voltajes en cada trayectoria cerrada considerando elevaciones de voltaje con signo positivo y las caídas de voltaje como negativas.
+    (Insertar tabla 1.2 con los datos)
+    4) Verificar si se cumple la Ley de Kirchhoff de corrientes en cada nodos, tomando con signo positivo las corrientes que entrar y con signo negativo las que salen.
+    (Insertar la tabla 1.3)
+    5) Comparar los resultados medidos con los valores obtenidos al analizar con el circuito analíticamente.
   ![image](https://user-images.githubusercontent.com/93786746/141368652-c36bfed3-9d8b-43cf-a1cc-14ed1a399913.png)
   ![image](https://user-images.githubusercontent.com/93829962/141375518-9f4fe4c9-5b74-430f-8ee9-853ebc2f9e82.png)
 ## 4. Respuesta a Interrogantes y cálculo de error
