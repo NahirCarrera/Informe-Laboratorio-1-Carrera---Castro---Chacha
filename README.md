@@ -48,5 +48,5 @@
   *
   *
 ## 7. Bibliografía
-    * Ayllón Fandiño, E. (1987). _Fundamentos de la teoría de los circuitos eléctricos_ II. La Habana: Pueblo y Educación.
-    * Ingeniería Mecafénix. (2018). _Ley de voltaje de Kirchhoff_ . La enciclopedia de la ingeniería. Recuperado de https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
+* Ayllón Fandiño, E. (1987). _Fundamentos de la teoría de los circuitos eléctricos_ II. La Habana: Pueblo y Educación.
+* Ingeniería Mecafénix. (2018). _Ley de voltaje de Kirchhoff_ . La enciclopedia de la ingeniería. Recuperado de https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
