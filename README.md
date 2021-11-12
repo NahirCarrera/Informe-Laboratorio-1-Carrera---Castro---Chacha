@@ -37,8 +37,10 @@
  2) Medir los voltajes y corrientes en cada elemento del circuito y anotar en la tabla 1.1.
     
  ![image](https://user-images.githubusercontent.com/93786746/141385308-9f9c8da6-84ae-4761-a626-73e6111614f2.png)
+    
  Ilustración 1. Medición de corrientes en el simulador Tinkercad
  ![image](https://user-images.githubusercontent.com/93829962/141375518-9f4fe4c9-5b74-430f-8ee9-853ebc2f9e82.png)
+ 
  Ilustración 2. Medición de voltajes en el simulador Tinkercad
     
  3) Verificar si se cumple la Ley de Kirchhoff de voltajes en cada trayectoria cerrada considerando elevaciones de voltaje con signo positivo y las caídas de voltaje como negativas.
@@ -49,6 +51,7 @@ Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 ![image](https://user-images.githubusercontent.com/93829962/141387606-ebd0cb0f-60e4-4ef8-82b4-e5526f33dec4.png)
 
 Tabla 1.2 Verificación de la LVK.
+    
 Tabla 1.3 Verificación de la LCK.
 
 
