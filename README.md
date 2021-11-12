@@ -53,7 +53,7 @@ _Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 _Tabla 1.2 Verificación de la LVK._
     
 _Tabla 1.3 Verificación de la LCK._
-![Tabla 3](https://user-images.githubusercontent.com/93829976/141394864-d8dbc554-cdd7-4453-8d1e-4065364d7eb5.JPG)
+![Tabla 3](https://user-images.githubusercontent.com/93829976/141395129-79c9ca85-2aa5-4619-a291-e173b8d536c5.JPG)
 ## 5. Video
 ## 6. Conclusiones
   *
