@@ -55,9 +55,11 @@ Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circ
 
 _Tabla 1.2 Verificación de la LVK._
     
+    
 _Tabla 1.3 Verificación de la LCK._
 ![Tabla 3](https://user-images.githubusercontent.com/93829976/141404832-56211e3a-7b99-475d-96de-13a201b7c267.JPG)
 ## 5. Video
+  *
 ## 6. Conclusiones
   * Una vez establecidas las bases teóricas correspondientes a las leyes de Kirchhoff y planteado como objeto de práctica el medir intensidad de corriente y voltaje con subidas y caídas en los resistores de un circuito, con ayuda del simulador Tinkercad fue posible comprenderlas de mejor manera. Hablando concretamente acerca de la corriente se sabe que la sumatoria de todas las corrientes que se encuentran en un circuito son iguales al valor de la corriente total; esta afirmación se pudo confirmar ya que al medir los valores de cada corriente y realizar los respectivos cálculos se obtuvo el mismo valor que corresponde a la corriente total, es por ello que en la práctica se observó que en los nodos presentes la corriente de entrada era equivalente a la corriente de salida, a su vez se conoce que la corriente de entrada siempre será positiva mientras que la corriente de salida será negativa; a partir de este argumento se debe cumplir la condición de que la corriente de entrada menos la corriente de salida será igual a cero, y finalmente es así como se puede comprobar que las leyes de Kirchhoff son correctas y si se cumplen dentro del circuito.
   * Más allá de profundizar en la correcta utilización de instrumentos medidores e implementos, fue posible corroborar la ley de voltaje ya que tanto teóricamente como experimentalmente, fuera del grado de error se obtuvieron valores que permitieron observar durante la simulación que la sumatoria de las caídas de voltaje en las resistencias es igual al voltaje fuente, que en este caso fue de 10 Volts, así mismo, comprobamos que el voltaje en sistemas paralelos permanece constante y actúa diferente en circuitos en serie y en paralelo.
