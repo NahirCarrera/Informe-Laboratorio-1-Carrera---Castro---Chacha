@@ -68,3 +68,4 @@ _Tabla 1.3 Verificación de la LCK._
 ## 7. Bibliografía
  * Ayllón Fandiño, E. (1987). *Fundamentos de la teoría de los circuitos eléctricos* II. La Habana: Pueblo y Educación.
  * Ingeniería Mecafénix. (2018). *Ley de voltaje de Kirchhoff*. La enciclopedia de la
+ * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
