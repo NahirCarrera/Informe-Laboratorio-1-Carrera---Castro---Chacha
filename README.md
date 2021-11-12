@@ -10,9 +10,9 @@
   ### General: 
   * Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
   ### Específicos
+  * Explicar que son las Leyes de Kirchhoff de Corrientes y Voltajes por medio de herramientas visuales para la realización adecuada de la práctica.
+  * Diseñar un circuito mixto mediante el simulador virtual Tinkercad para la comprobación de las leyes de Kirchhoff en corrientes y voltajes.
   * 
-  * 
-  *
 ## 2. Marco Teórico
   ## <p align=center> Materiales
   ![Materiales](https://user-images.githubusercontent.com/93829976/141382782-379cc1dd-d3fb-4934-bf72-0b6426afd262.jpeg)
