@@ -33,6 +33,8 @@
  1) Armar el circuito que se muestra en la Figura 1.1.
  
  ![image](https://user-images.githubusercontent.com/93829962/141383857-9dcc47b7-a6de-4901-8fe7-cb5d9bb47658.png)
+ ![image](https://user-images.githubusercontent.com/93786746/141478896-678e0048-411b-4bab-8b49-619ac4a1d957.png)
+
  
  2) Medir los voltajes y corrientes en cada elemento del circuito y anotar en la tabla 1.1.
     
