@@ -46,6 +46,9 @@
  3) Verificar si se cumple la Ley de Kirchhoff de voltajes en cada trayectoria cerrada considerando elevaciones de voltaje con signo positivo y las caídas de voltaje como negativas.
  4) Verificar si se cumple la Ley de Kirchhoff de corrientes en cada nodos, tomando con signo positivo las corrientes que entrar y con signo negativo las que salen.
  5) Comparar los resultados medidos con los valores obtenidos al analizar con el circuito analíticamente.
+  ## Cálculos de Respaldo
+  ![image](https://user-images.githubusercontent.com/93829962/141404502-ba04f595-7f3c-4334-994b-0c2fce9c172d.png)
+
 ## 4. Respuesta a Interrogantes y cálculo de error
 Tabla 1.1 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 ![image](https://user-images.githubusercontent.com/93829962/141402230-100d416e-66d5-4a46-85f4-ed846df2133c.png)
