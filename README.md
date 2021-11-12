@@ -67,5 +67,5 @@ _Tabla 1.3 Verificación de la LCK._
   * Más allá de profundizar en la correcta utilización de instrumentos medidores e implementos, fue posible corroborar la ley de voltaje ya que tanto teóricamente como experimentalmente, fuera del grado de error se obtuvieron valores que permitieron observar durante la simulación que la sumatoria de las caídas de voltaje en las resistencias es igual al voltaje fuente, que en este caso fue de 10 Volts, así mismo, comprobamos que el voltaje en sistemas paralelos permanece constante y actúa diferente en circuitos en serie y en paralelo.
 ## 7. Bibliografía
  * Ayllón Fandiño, E. (1987). *Fundamentos de la teoría de los circuitos eléctricos* II. La Habana: Pueblo y Educación.
- * Ingeniería Mecafénix. (2018). *Ley de voltaje de Kirchhoff*. La enciclopedia de la
+ * Ingeniería Mecafénix. (2018). *Ley de voltaje de Kirchhoff*. La enciclopedia de la Ingeniería. Recuperado de https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
  * Floyd, T. (2007). _Principios De Circuitos Eléctricos_. Octava edición. México. Pearson Education.
